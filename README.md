@@ -1,5 +1,6 @@
 # RUST-Devlabs
 
-```
-Walk along with me as I explore the journey of learning rust
+```bash
+echo "Learing rust in progress"
+echo "Pls stand by..."
 ```
